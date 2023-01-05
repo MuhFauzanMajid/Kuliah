@@ -37,4 +37,5 @@ func main() {
 	} else if naik {
 		fmt.Println("ascending")
 	}
+
 }
